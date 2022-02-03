@@ -1,1 +1,3 @@
 Notepad ini berisi informasi mengenai fail dari repositori pertama saya
+
+Fail ini sengaja saya ubah untuk melihat status terbaru dari git status
